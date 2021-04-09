@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.col{
+    text-align: center;
+    line-height: 100px;
+    color: azure;
+    background-color: brown;
+    background-clip: content-box;
+    margin: 10px 0;
+}
+h2{
+    font-size: 12px;
+}
